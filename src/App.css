@@ -78,6 +78,5 @@ nav ul li{
 }
 .content {
   grid-area: content;
-  background-color: cadetblue;
   border-bottom-left-radius: 4px;
 }
